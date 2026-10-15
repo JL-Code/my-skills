@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ce05f77-b885-45d8-9dee-f5630fd5042f",
+  "path": "writing-skills",
+  "path_key": "writing-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "obra/superpowers/writing-skills",
+    "subpath": "skills\\writing-skills",
+    "branch": null
+  }
+}
